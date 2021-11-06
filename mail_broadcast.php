@@ -2,7 +2,7 @@
 // mailer file completed
 
 require_once("vendor/autoload.php");
-require_once("data_reader.php");
+// require_once("data_reader.php");
 
 try {
     // Get POST data
