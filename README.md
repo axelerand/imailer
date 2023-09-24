@@ -1,5 +1,5 @@
 # iMailer
-A PHP-based broadcast email script.
+A PHP-based email broadcast script.
 
 ## Motivation
 This project was started in order to efficiently distribute information to all participants of Indonesia Bebras Challenge who registered through University of Surabaya (UBAYA) bureau.
